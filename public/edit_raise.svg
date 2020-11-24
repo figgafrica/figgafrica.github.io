@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1535.951 863.972">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #ff8a00;
+        opacity: 0.15;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-1" d="M-122.356,221.1L536.412-81.148l130.257,152.8L7.9,373.9Z" transform="translate(-193.025 -80.014)"/>
+    <path class="cls-1" d="M-31.849,391.232L1544.04-376.612l262.81,539.38L230.961,930.612Z" transform="translate(-193.025 -80.014)"/>
+    <path class="cls-2" d="M1290.1-88.519l354.3,484.226L1501.55,500.224,1147.25,16Z" transform="translate(-193.025 -80.014)"/>
+    <path class="cls-2" d="M1178.62,764.13l478.32-362.219L1763.8,543.018,1285.47,905.237Z" transform="translate(-193.025 -80.014)"/>
+    <path id="Rectangle_2_copy" data-name="Rectangle 2 copy" class="cls-2" d="M-101.623,915.947L398.052,583.795,496.037,731.2-3.639,1063.35Z" transform="translate(-193.025 -80.014)"/>
+    <path id="Rectangle_2_copy_2" data-name="Rectangle 2 copy 2" class="cls-2" d="M-79.623,592.947L420.052,260.8l97.985,147.4L18.361,740.351Z" transform="translate(-193.025 -80.014)"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+        fill: #ff8a00;
+        font-family: Dosis;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="figg" class="cls-1" transform="translate(37.601 516.705) scale(0.64 0.641)">figg</text>
+</svg>
