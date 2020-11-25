@@ -194,11 +194,11 @@ tbody {
   height: 550px;
 }
 
-.cover h1 {
+.cover-heading {
   margin: 7.5% auto;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 700%;
+  font-size: 10vw;
 }
 
 .s_hdr {
@@ -295,7 +295,7 @@ p {
 }
 
 .phone {
-  font-size: 2.5em;
+  font-size: 3vw;
   text-align: center;
 }
 
