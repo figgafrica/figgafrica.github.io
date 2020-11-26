@@ -2,6 +2,12 @@
  * Globals
  */
 
+ @media (min-width: 768px) {
+  .bd-clipboard {
+    display: block;
+  }
+ }
+
  @media (min-width: 576px) {
     .bd-example {
       padding: 1.5rem;
@@ -9,6 +15,17 @@
       margin-left: 0;
       border-width: .2rem;
     }
+
+    .highlight {
+      padding: 1.5rem;
+    }
+
+    .bd-content .highlight {
+      margin-right: 0;
+      margin-left: 0;
+    }
+
+    
   }
 
  @media (min-width: 360px) and (max-width: 900px) {
@@ -313,8 +330,8 @@ p {
   border-width: .2rem .2rem .2rem;
 }
 
-.weight {
-  margin: 5%;
+.space {
+  margin: 5% 0;
 }
 
 .bd-clipboard {
@@ -341,6 +358,11 @@ p {
   margin-top: 0;
 }
 
+.bd-content .highlight {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
 .highlight {
   padding: 1rem;
   margin-top: 1rem;
@@ -356,6 +378,11 @@ p {
   margin-bottom: .65rem;
   background-color: transparent;
   border: 0;
+}
+
+.highlight pre code {
+    font-size: inherit;
+    color: #212529;
 }
 
 
@@ -396,3 +423,28 @@ button {
   border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
   border-image: initial;
 }
+
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+}
+
+
+/* Buttons */
+
+.nt {
+  color: #2f6f9f;
+}
+
+.na {
+  color: #006ee0;
+}
+
+.s {
+  color: #d73038;
+}
+
+
