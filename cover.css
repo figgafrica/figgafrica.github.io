@@ -518,11 +518,11 @@ figure {
 }
 
 .btn-outline-success {
-  color: #66FF66 !important;
-  border-color: #66FF66 !important;
+  color: #00ff80 !important;
+  border-color: #00ff80 !important;
 }
 
 .btn-outline-success:hover {
   color: #fff !important;
-  background-color: #66FF66 !important;
+  background-color: #00ff80 !important;
 }
